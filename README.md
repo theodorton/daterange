@@ -1,5 +1,6 @@
 # DateRange
 
+[![Build Status](https://img.shields.io/codeship/2b277380-6d90-0132-7e93-261dee642691/master.svg?style=flat-square)](https://codeship.com/projects/54247)
 [![Version](http://img.shields.io/gem/v/daterange.svg?style=flat-square)](https://rubygems.org/gems/daterange)
 [![Downloads](http://img.shields.io/gem/dt/daterange.svg?style=flat-square)](https://rubygems.org/gems/daterange)
 [![Open Github issues](http://img.shields.io/github/issues/theodorton/daterange.svg?style=flat-square)](https://github.com/theodorton/daterange/issues)

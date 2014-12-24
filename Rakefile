@@ -17,8 +17,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "daterange"
   gem.homepage = "http://github.com/theodorton/daterange"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = %Q{Parse strings to date ranges}
+  gem.description = %Q{Parse keen-like timeframes to date ranges}
   gem.email = "theodor@tonum.no"
   gem.authors = ["Theodor Tonum"]
   # dependencies defined in Gemfile

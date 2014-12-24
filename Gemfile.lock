@@ -110,6 +110,7 @@ GEM
       hitimes
     tzinfo (1.2.2)
       thread_safe (~> 0.1)
+    yard (0.8.7.4)
 
 PLATFORMS
   ruby
@@ -123,3 +124,4 @@ DEPENDENCIES
   rspec-its
   simplecov
   timecop
+  yard (~> 0.7)
